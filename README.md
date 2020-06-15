@@ -4,7 +4,7 @@ June 15, 16 and 17 2020
 ## Program
 The module has 6 half days. From a pre-established skeleton, the training gradually becomes oriented to meet the specific needs / ideas of the group.
 
-- Half Day 1, 2, 3: Introduction to Python: 
+- Half Day 1, 2, 3: Introduction to Python:
     - [ ] Work Environments: Spyder, Jupyter.
     - [ ] Basic programming in Python.
     - [ ] Scientific and graphic libraries for the scientist Numpy, Scipy, Pandas and Matplotlib.
@@ -19,4 +19,4 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
     - [ ] Numerical resolution of ordinary differential equations,
     - [ ] Machine / Deep Learning (Scikit Learn, PyTorch) …
 - Half-day 6: Realization of a project:
-    - [ ] Each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized and returned as a GitLab bookstore or repository.
+    - [ ] Each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized a GitLab or GitHub repository.
