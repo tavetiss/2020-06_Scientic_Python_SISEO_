@@ -5,8 +5,8 @@ June 15, 16 and 17 2020
 The module has 6 half days. From a pre-established skeleton, the training gradually becomes oriented to meet the specific needs / ideas of the group.
 
 - Half Day 1, 2, 3: Introduction to Python:
-    - [ ] Work Environments: Spyder, Jupyter.
-    - [ ] Basic programming in Python.
+    - [x] Work Environments: Spyder, Jupyter.
+    - [x] Basic programming in Python.
     - [ ] Scientific and graphic libraries for the scientist Numpy, Scipy, Pandas and Matplotlib.
     - [ ] Various examples.
 - Half day 4: Libraries and documentation
@@ -23,7 +23,7 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 
 ## Needs
 
-- [ ] Basics
+- [x] Basics
 - [ ] General purpose stuff
 - [ ] Data management with Pandas
 - [ ] Image processing (SEM, TEM ?)
