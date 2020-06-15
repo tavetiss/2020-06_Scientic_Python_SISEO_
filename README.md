@@ -20,3 +20,15 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
     - [ ] Machine / Deep Learning (Scikit Learn, PyTorch) …
 - Half-day 6: Realization of a project:
     - [ ] Each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized as a GitLab or GitHub repository.
+
+## Needs
+
+- [ ] Basics
+- [ ] General purpose stuff
+- [ ] Data management with Pandas
+- [ ] Image processing (SEM, TEM ?)
+- [ ] Figures with Matplotlib
+- [ ] Jupyter vs. Spyder
+- [ ] Classes !
+- [ ] GUIs
+- [ ] Git
