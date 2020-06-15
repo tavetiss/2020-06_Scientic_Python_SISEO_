@@ -24,11 +24,11 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 ## Needs
 
 - [x] Basics
-- [ ] General purpose stuff
+- [x] General purpose stuff
 - [ ] Data management with Pandas
 - [ ] Image processing (SEM, TEM ?)
 - [ ] Figures with Matplotlib
-- [ ] Jupyter vs. Spyder
-- [ ] Classes !
+- [x] Jupyter vs. Spyder
+- [x] Classes !
 - [ ] GUIs
 - [ ] Git
