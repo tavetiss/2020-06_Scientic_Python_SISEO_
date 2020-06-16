@@ -10,13 +10,13 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
     - [ ] Scientific and graphic libraries for the scientist Numpy, Scipy, Pandas and Matplotlib.
     - [ ] Various examples.
 - Half day 4: Libraries and documentation
-    - [ ] Creation of a documented library
+    - [x] Creation of a documented library
     - [ ] Document it with Sphinx in collaborative mode with Git and GitLab.
 - Half-days 5:  "A la carte" themes. Examples:
     - [ ] Advanced graphics for publications with Matplotlib (complex graphics, Latex couplings),
     - [ ] Image processing / Computed vision,
     - [ ] Optimization,
-    - [ ] Numerical resolution of ordinary differential equations,
+    - [x] Numerical resolution of ordinary differential equations,
     - [ ] Machine / Deep Learning (Scikit Learn, PyTorch) …
 - Half-day 6: Realization of a project:
     - [ ] Each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized as a GitLab or GitHub repository.
