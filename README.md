@@ -15,7 +15,7 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 - Half-days 5:  "A la carte" themes. Examples:
     - [ ] Advanced graphics for publications with Matplotlib (complex graphics, Latex couplings),
     - [ ] Image processing / Computed vision,
-    - [ ] Optimization,
+    - [x] Optimization,
     - [x] Numerical resolution of ordinary differential equations,
     - [ ] Machine / Deep Learning (Scikit Learn, PyTorch) …
 - Half-day 6: Realization of a project:
@@ -25,7 +25,7 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 
 - [x] Basics
 - [x] General purpose stuff
-- [ ] Data management with Pandas
+- [x] Data management with Pandas
 - [ ] Image processing (SEM, TEM ?)
 - [ ] Figures with Matplotlib
 - [x] Jupyter vs. Spyder
