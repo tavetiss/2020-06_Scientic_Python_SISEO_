@@ -17,7 +17,7 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
     - [ ] Image processing / Computed vision,
     - [x] Optimization,
     - [x] Numerical resolution of ordinary differential equations,
-    - [ ] Machine / Deep Learning (Scikit Learn, PyTorch) …
+    - [x] Machine / Deep Learning (Scikit Learn, PyTorch) …
 - Half-day 6: Realization of a project:
     - [ ] Each participant proposes to solve a problem with the proposed methods. At the end of this session, the project is realized as a GitLab or GitHub repository.
 
@@ -31,4 +31,4 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 - [x] Jupyter vs. Spyder
 - [x] Classes !
 - [ ] GUIs
-- [ ] Git
+- [x] Git
