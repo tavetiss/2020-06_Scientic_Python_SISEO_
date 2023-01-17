@@ -32,3 +32,5 @@ The module has 6 half days. From a pre-established skeleton, the training gradua
 - [x] Classes !
 - [x] GUIs
 - [x] Git
+
+Salut les gens
